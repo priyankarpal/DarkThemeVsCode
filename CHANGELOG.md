@@ -1,4 +1,9 @@
 # Change Log
-**New version 2.1.1** 
-All notable changes to the "Dark Theme" extension will be documented in this file.
 
+**New version Added: 2.1.1**
+
+**New version Added: 2.3.0**
+
+**New Version Added: 2.4.0**
+  -Added a Banner color
+  
