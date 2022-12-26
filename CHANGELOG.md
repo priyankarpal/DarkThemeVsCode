@@ -6,4 +6,5 @@
 
 **New Version Added: 2.4.0**
   -Added a Banner color
+  -New Image Added
   
