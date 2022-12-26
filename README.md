@@ -1,8 +1,6 @@
 # Dark Theme for Visual Studio code Users 🧑🏻‍💻
 
-For Dark Theme lovers, I made this theme for them. Using Dark Theme you can boost your power to code 💯.
-
-Suggest me what to add in this extension.
+**Dark themes are a popular feature in many apps and websites that allow users to switch to a darker color scheme for the user interface. This can be easier on the eyes in low light environments, and some people just prefer the aesthetic of a dark theme. Many apps and websites offer a dark theme as a setting that can be toggled on and off, so users can switch between a light and dark theme depending on their preference. If you're using a device with an operating system that supports dark mode, you may also be able to enable a system-wide dark theme that will apply to all compatible apps and websites. So I made this Dark Theme for you ♥️**
 
 <h1 align="center"> Star this Repository  ⭐ </h1>
 
