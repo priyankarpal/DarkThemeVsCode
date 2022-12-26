@@ -10,3 +10,6 @@
 
 **New Version Added: 2.6.0**
 
+**New Version Added: 2.7.0**
+
+
