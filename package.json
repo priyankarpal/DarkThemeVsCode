@@ -1,0 +1,41 @@
+{
+  "name": "darkthemeforvscode",
+  "displayName": "VS Code Dark Theme",
+  "description": "Amazing Dark Theme for Dark Theme Lovers 🤩",
+  "version": "2.2.0",
+  "publisher": "PriyankarPal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/priyankarpal/DarkThemeVsCode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/priyankarpal/DarkThemeVsCode.git",
+    "email": "priyankarpal9@gmail.com"
+  },
+  "icon": "images/themes.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Dark Theme",
+    "Dark Theme For vscode",
+    "Best Theme for Coders",
+    "Dark UI theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darktheme.json"
+      }
+    ]
+  }
+}
