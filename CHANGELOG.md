@@ -5,6 +5,5 @@
 **New version Added: 2.3.0**
 
 **New Version Added: 2.4.0**
-  -Added a Banner color
-  -New Image Added
-  
+
+**New Version Added: 2.5.0**
