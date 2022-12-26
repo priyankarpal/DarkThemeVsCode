@@ -4,6 +4,12 @@ For Dark Theme lovers, I made this theme for them. Using Dark Theme you can boos
 
 Suggest me what to add in this extension.
 
+<h1 align="center"> Star this Repository  ⭐ </h1>
+
+<p align="Center"> 
+<a href="https://github.com/priyankarpal/DarkThemeVsCode" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" /></a> 
+</p>
+
 <h1 align="center"> Connect with me 🤝</h1>
 
 <p align="Center"> 
