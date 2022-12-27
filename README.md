@@ -18,4 +18,8 @@
 <a href="https://www.twitter.com/priyankarpal" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"  /></a>
 </p>
 
+# Black Theme
 ![Image](/images/1.png)
+
+# Purple Theme
+![Purple Theme](/images/Purple%20theme.jpg)
