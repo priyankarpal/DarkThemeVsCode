@@ -12,7 +12,7 @@
     "url": "https://github.com/priyankarpal/DarkThemeVsCode.git",
     "email": "priyankarpal9@gmail.com"
   },
-  "icon": "/images/theme.png",
+  "icon": "images/theme.png",
   "galleryBanner": {
     "color": "#000000",
     "theme": "dark"
