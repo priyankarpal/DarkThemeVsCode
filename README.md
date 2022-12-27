@@ -19,7 +19,7 @@
 </p>
 
 # Black Theme
-![Image](/images/1.png)
+![Image](/images/Blacktheme.jpg)
 
 # Purple Theme
-![Purple Theme](/images/Purple%20theme.jpg)
+![Purple Theme](/images/Purpletheme.jpg)
