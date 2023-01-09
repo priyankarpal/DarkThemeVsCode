@@ -20,4 +20,7 @@
 
 **New Version Added: 2.11.0**
 
+**New Version Added: 2.12.0**
+
+
 
